@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Entornos
+.env
+
+# Archivos de sistema
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Archivos temporales
+temp/
+
+# Archivos PDF generados
+*.pdf
+
+# MacOS
+__MACOSX
+
+# Editor
+.vscode/
+.idea/
